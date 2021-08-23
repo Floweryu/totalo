@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🔭 I’m currently working on @Xiaomi
+ 🔭 Now works as a back-end R&D engineer at Xiaomi
+ 
 
 
 ![totalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=totalo&theme=vue&show_icons=true)
