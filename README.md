@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🔭 Now works as a back-end R&D engineer at Xiaomi
+ 🔭 Now works as a back-end R&D engineer
  
 
 
