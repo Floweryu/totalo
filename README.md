@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 -->
  🔭 Now works as a back-end R&D engineer
  
-[![totalo's github activity graph](https://activity-graph.herokuapp.com/graph?username=totalo&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=totalo&theme=github&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-![totalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=totalo&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=buefy)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=totalo&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=buefy)
+
+
+![Most use](https://github-readme-stats.vercel.app/api/top-langs/?username=totalo&layout=compact)
 
 
