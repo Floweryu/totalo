@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <table>
  <tr>
  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totalo&layout=compact"/></td>
- <td>![GitHub stats](https://github-readme-stats.vercel.app/api?username=totalo&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=buefy)  ![Most use](https://github-readme-stats.vercel.app/api/top-langs/?username=totalo&layout=compact)</td>
+ <td>[![GitHub stats](https://github-readme-stats.vercel.app/api?username=totalo&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=buefy)]</td>
  </tr>
 </table>
 
